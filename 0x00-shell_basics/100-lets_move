@@ -1,2 +1,2 @@
 #!/bin/bash
-mv -v -t /tmp/u  $(find . -type f -name '[A-Z]*')
+mv ~/[A-Z]* /tmp/u
